@@ -20,6 +20,10 @@ software actually works. That proof is our product.
   differential loop) and landed by the machine, with evidence, while the
   humans sleep. The queue drains itself; every close gets a written reply;
   nothing merges without proof.
+- **[ClockBench](https://github.com/limitlessprojects/ClockBench)** — the
+  living, neutral, leakage-aware benchmark for epigenetic aging clocks: same
+  clock, different packages, different ages — we measure it, with signed
+  artifacts and a public leakage ledger.
 - **Explainer films as code** — deterministic, rendered-from-source
   motion-graphics films about our own systems
   ([followbot-explainer](https://github.com/limitlessprojects/followbot-explainer)).
