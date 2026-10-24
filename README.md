@@ -28,6 +28,15 @@ software actually works. That proof is our product.
   motion-graphics films about our own systems
   ([followbot-explainer](https://github.com/limitlessprojects/followbot-explainer)).
 
+## The engineering wing — Codec Arena
+
+[codec-arena](https://github.com/limitlessprojects/codec-arena) — an
+evolutionary codec lab. A million bots (16-gene genomes controlling a real
+Zig hybrid codec) fight over bits on 20 CI runners, scored
+`PSNR − λ·bpp − complexity`, measured against x264 / x265 / SVT-AV1 / libaom
+on the same corpus with the same instrument. The bar is external. The gap is
+published. Every evaluation is a receipt.
+
 ## The contributor deal
 
 Every PR gets a written reply — merged or not, no silent closes. Real
