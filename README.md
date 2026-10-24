@@ -24,6 +24,3 @@ Every PR gets a real verification: the reported bug is reproduced on main, the
 fix is probed against the repro *and* over-reach controls, and the full
 battery must stay green. Same-fix duplicates are credit-closed with the
 verification evidence spelled out — your work is named either way.
-
-Bounty wildcards and capability proposals run through public discussions with
-pre-registered review windows.
